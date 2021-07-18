@@ -20,25 +20,28 @@
 ---
 
 ## Work experience:
-  Courses on [Sololearn](www.sololearn.com)
+  Courses on [sololearn.com](https://www.sololearn.com/)
   * Responsive Web Design
   * HTML5
   * CSS3
 
-  Courses on [Stepik](www.stepik.org)
+  Courses on [stepik.org](https://www.stepik.org)
   * JavaScript for beginners
   * Web design for beginners
   * Interactive SQL trainer
+  
 ## Skills:
   Team work
+
   Business communication
+
   Frontend developing:
-  *GIT
-  *HTML
-  *CSS
-  *JavaScript
-  *VSCode
-  *Linux terminal
+  * GIT
+  * HTML
+  * CSS
+  * JavaScript
+  * VSCode
+  * Linux terminal
 
 ## More information about me by link below:
 
