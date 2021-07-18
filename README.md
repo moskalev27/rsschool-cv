@@ -1,2 +1,1 @@
-# rsschool-cv
-RSschool first-task repository
+https://moskalev27.github.io/rsschool-cv/cv
