@@ -8,7 +8,7 @@
  * email: moskalev27@gmail.com
 
 ## Education:
- Kazan National Research Technological University, Kazan
+  Kazan National Research Technological University, Kazan
 
  * Institute of Petroleum, Chemistry and Nanotechnologies. Chemical Technology of Organic Substances.
 
@@ -20,25 +20,25 @@
 ---
 
 ## Work experience:
- * Courses on [sololearn.com](www.sololearn.com)
-  > Responsive Web Design
-  > HTML5
-  > CSS3
+  Courses on [Sololearn](www.sololearn.com)
+  * Responsive Web Design
+  * HTML5
+  * CSS3
 
- * Courses on www.stepik.org[stepik.org](www.stepik.org)
-  > JavaScript for beginners
-  > Web design for beginners
-  > Interactive SQL trainer
+  Courses on [Stepik](www.stepik.org)
+  * JavaScript for beginners
+  * Web design for beginners
+  * Interactive SQL trainer
 ## Skills:
- * Team work
- * Business communication
- * Frontend developing:
-  * GIT
-  * HTML
-  * CSS
-  * JavaScript
-  * VSCode
-  * Linux terminal
+  Team work
+  Business communication
+  Frontend developing:
+  *GIT
+  *HTML
+  *CSS
+  *JavaScript
+  *VSCode
+  *Linux terminal
 
 ## More information about me by link below:
 
