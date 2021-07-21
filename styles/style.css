@@ -1,0 +1,45 @@
+
+.container {
+  width:1000px;
+  margin: 0 auto;
+  padding: 0 15px;
+}
+
+h1,
+h2,
+nav ul,
+figcaption,
+h1 + p {
+  text-align: center;
+}
+
+.user-image img {
+  display: block;
+  margin: 0 auto;
+  border-radius: 50%;
+}
+
+nav ul li {
+  display: inline;
+  padding-right: 10px;
+  margin: 0 auto;
+}
+
+header,
+footer {
+  background-color: #66d7ff;
+  padding: 15px 0;
+}
+
+main .container{
+  padding-top: 1px;
+  background-color: #f3ffac;
+}
+
+main section {
+  padding-bottom: 20px;
+}
+
+footer .container {
+  text-align: center;
+}
