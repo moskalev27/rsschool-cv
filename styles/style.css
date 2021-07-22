@@ -21,14 +21,14 @@ h1 + p {
 
 nav ul li {
   display: inline;
-  padding-right: 10px;
   margin: 0 auto;
+  padding-right: 10px;
 }
 
 header,
 footer {
-  background-color: #66d7ff;
   padding: 15px 0;
+  background-color: #66d7ff;
 }
 
 main .container{
